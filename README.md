@@ -1,0 +1,1 @@
+# aerospike_set_bin_deletion
