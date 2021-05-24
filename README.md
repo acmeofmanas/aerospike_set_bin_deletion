@@ -1,4 +1,5 @@
-# aerospike_set_bin_deletion
+# aerospike_bin_deletion
+#Set can be deleted unless disk is not cleaned 
 
 truncate set can be used to delete bins when bins quota breached.
 but before doing that below checklist is must:
